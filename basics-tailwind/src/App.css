@@ -7,3 +7,12 @@
 body{
   font-family: 'Jost', sans-serif;
 }
+.gradient{
+  background: linear-gradient(99deg, #EE9AE5 34%, #5961F9 100%);
+
+}
+
+.boxShadow{
+  box-shadow: 0px 10px 50px 0px #00000026;
+
+}
