@@ -14,8 +14,8 @@ const Banner = () => {
           </p>
         </div>
         <div className="space-y-4 lg:space-x-6 md:space-x-4">
-            <button className="bg-secondary px-4 py-2 text-2xl font-medium text-white transition-all duration-300 hover:text-primary hover:bg-white hover:rounded-lg">Get Started</button>
-            <button className="bg-secondary px-4 py-2 text-2xl font-medium text-white mr-6 transition-all duration-300 hover:text-primary hover:bg-white hover:rounded-lg">Discount</button>
+            <button className="bg-secondary px-4 py-2 text-2xl font-medium text-white rounded-sm transition-all duration-300 hover:text-primary hover:bg-white hover:rounded-lg">Get Started</button>
+            <button className="bg-secondary px-4 py-2 text-2xl font-medium text-white rounded-sm mr-6 transition-all duration-300 hover:text-primary hover:bg-white hover:rounded-lg">Discount</button>
         </div>
       </div>
       <div className="mx-8 my-4">

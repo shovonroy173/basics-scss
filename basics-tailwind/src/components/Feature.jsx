@@ -1,7 +1,7 @@
 import feature from "../assets/feature.png";
 const Feature = () => {
   return (
-    <div className=" flex-col lg:flex-row flex  items-center justify-between mx-8 lg:mx-8 my-12 lg:my-4  h-[80vh]">
+    <div className=" flex-col lg:flex-row flex  items-center justify-between mx-8 lg:mx-8 my-12 lg:my-4  h-4/5">
       <div className="lg:w-1/4" >
         <p className="text-4xl font-bold text-primary">Why we are better than others</p>
         <p className="text-md font-medium text-tertiary">

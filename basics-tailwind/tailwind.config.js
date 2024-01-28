@@ -13,7 +13,10 @@ export default {
      "secondary":"#9A7AF1" , 
      "tertiary":"#707070" , 
     "pink":"#EE9AE5" , 
-    "white":"#ffff"
+    "white":"#ffff" , 
+    "black":"#000000" ,
+    "lightGreen":"#39DC98" , 
+     "lightRed":"#FD809E" , 
     } , 
   },
   plugins: [],
